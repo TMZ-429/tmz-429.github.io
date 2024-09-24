@@ -10,19 +10,51 @@
     } h2 {
         font-family: 'Courier New' ;
         color      : black       ;
+    } a {
+        position:   relative;
+        left:       50%     ;
+        right:      50%     ;
     } a:link {
         color: blue;
     } a:visited {
         color: blue;
-    } 
+    }
 </style>
 
 <title>The White Library</title>
 
+<script>
+    function create_EL(directory, files) {
+        let title = document.createElement('h1');
+        title.innerHTML = directory;
+        title.style = 'position: relative; left: 45%; right: 45%;';
+        document.body.appendChild(title);
+        for (let file of files) {
+            let fileLink = document.createElement('a');
+            fileLink.innerHTML = file + "\n";
+            fileLink.href = `./${directory}/${file}.txt`;
+            document.body.appendChild(fileLink);
+            document.body.appendChild(document.createElement('br'));
+        }
+    }
+</script>
+
 <body>
     <script>
-        const fs = require('fs');
-        alert(fs.readDirSync('./biochemistry'));
+        create_EL("biochemistry", [
+            "bonds",
+            "carbohydrates",
+            "cell-membrane",
+            "functional-groups",
+            "glycosidic-bond",
+            "lipids",
+            "nucleic-acids",
+            "nucleidacids",
+            "organelles",
+            "osmosis",
+            "proteins"
+            ]
+        );
     </script>
 </body>
 </html>
