@@ -12,16 +12,12 @@
         color      : black       ;
     } a {
         position:   relative;
-        left:       50%     ;
-        right:      50%     ;
+        left:       1%     ;
+        right:      1%     ;
     } a:link {
         color: blue;
     } a:visited {
         color: blue;
-    } .titleText {
-        position:   relative;
-        left:       45%     ;
-        right:      45%     ;
     }
 </style>
 
@@ -31,7 +27,6 @@
     function create_EL(directory, files) {
         let title = document.createElement('h1');
         title.innerHTML = directory;
-        title.style = 'position: relative; left: 45%; right: 45%;';
         document.body.appendChild(title);
         for (let file of files) {
             let fileLink = document.createElement('a');
