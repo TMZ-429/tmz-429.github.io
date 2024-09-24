@@ -1,0 +1,45 @@
+Nucleic acids include:
+Information/"machine code":
+DNA
+RNA
+
+Energy:
+-ATP
+-ADP
+-GTP
+-GDP
+
+Nucleic acids have a basic structure called a nucleotide.
+The nucleotide has 3 components:
+A phosphate
+A pentose sugar
+A Nitrogenous base
+
+Two pentose sugars are:
+Ribose sugar
+Deoxyribose sugar
+
+The phosphate group is bound to the pentose sugar by a dehydration bond.
+This bond is called a phosphoester bond.
+Phosphate groups bind to 2 pentose sugars, creating 2 phosphoester bonds, or a 'phosphodiester bond'.
+The phosphate groups will bind 5-3, 5-3 to the pentose sugars until the last pentose sugar in the chain only has a carbon-5 bond and not a carbon-3 bond.
+
+The carbon-1 hydroxyl group connects to a nitrogenous base.
+
+(Adenine is important but work on that later)
+
+Nitrogenous bases attract each other by hydrogen attractions.
+
+In RNA, there's an extra hydroxyl group in the pentose sugars
+and instead of Thymine there's Uracil.
+
+Adenine & Guanine are purines.
+This is because they have a 2-part structure.
+
+Uracil, Cytosine & Thymine are pyramidines, because they're a 1 hexagon structure.
+
+ATP
+Adenosine Triphosphate
+
+ATP is composed of Adenine, a pentose & 3 phosphates.
+If one phosphate is removed it becomes ADP (Adenosine Diposphate)

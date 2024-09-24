@@ -1,0 +1,97 @@
+Fats & lipids are important macronutrients which contribute to homeostasis in the body of animals.
+Lipids are fatty, waxy or oily compounds that are covalent (I.E: Will not dissolve in polar covalent solvents, such as water)
+
+Base uses:
+Long term energy storage (Adipose)
+Insulation (adipose)
+Shock absorbant (adipose)
+Hormones (Steroids)
+Cell membrane (Phospholipid bilayer)
+
+Lipids include:
+Fats & oils
+Phospholipids
+Waxes
+Steroids
+
+Fats & Oils
+
+Fats and oils are esters made up of glycerol and 3 fatty acids.
+Fats are solid at room temperature, while oils are liquid.
+
+A fat molecule contains of two main components, glycerol and fatty acids.
+Glycerol is an alcohol with 3 carbons that each have a hydroxyl group attached.
+Fatty acids have a long chain of hydrocarbons with a carboxyl group attached.
+Hence the name 'fatty acid'
+The number of carbons in the fatty acid may range from 4 all the way to 36.
+The most common ones have 12-18 carbons.
+In a fat molecule, the fatty acids attach to each of the glycerol's carbons with an ester bond through an oxygen atom (In dehydration synthesis).
+An ester bond is a bond created by a dehydration reaction between a hydroxyl & carboxyl*
+
+A tri-ester linked glycerol is also known as triglyceride, which is a basic 'fat'.
+A fat is a glyceride connected to fatty acids.
+
+If your body consumes too many fatty acids, then it'll just sort of create fats and eject them as fast as possible to get rid of the excess.
+
+Fatty acids
+
+Fatty acids are long chains of carbons connected to hydrogen, with one end having 3 hydrogens and another end having a carboxyl group (−C(=O)−OH)
+Fatty acids are considered saturated if there are no double bonds in them.
+If there's a double bond, it's considered an unsaturated fatty acid.
+If there's one double bond, it's a monounsaturated fat.
+If there are multiple, it's a polyunsaturated fat.
+Polyunsaturated fatty acids tend to be cis because they're basically trying to bend over and over again to form a big ring.
+Unsaturated fats are oils.
+Both fats & fatty acids are described as saturated/unsaturated *fats*.
+A fat molecule is considered unsaturated if a fatty acid connected to it is unsaturated.
+
+Difference between cis & trans fats:
+Both cis & trans fats are unsaturated fats.
+In a cis fat, hydrogen atoms are attached with a double bond on one end of the carbon chain, resulting in a bent shape.
+In a trans fat, hydrogen atoms are attached on opposite sides of the carbon chain, making it straight.
+
+Long straight saturated fatty acids with single bonds generally pack tightly and are solid at room temperature.
+Animal fats with stearic acid and palmitic acid (Fatty acids found in meat) and the fat with butyric acid (Found in butter) are examples of saturated fats.
+Mammals store fat in specialized cells (Adipocytes), where fat globules occupy most of the cell's volume.
+Plants store fat or oil in their seeds and said seeds use them as a source of energy during development.
+Unsaturated fats or oils are usually found in plants and contain cis unsaturated fatty acids.
+
+Cis & trans indicate the configuration of the molecule around the double bond.
+Trans fats tend to appear in hydrogenated products, or otherwise processed food products made by contemporary means -- they don't tend to occur naturally.
+
+C18H36O2 is stearic acid, which can be found in red flesh -- it's marbling or 'grizzle'.
+Having too much of it will cause high cholesterol, which can lead to heart disease.
+
+Stearic acid is an saturated fatty acid with 18 carbons
+Oleic acid (Olive oil) is a cis monounsaturated fatty acid with 18 carbons and a double bond at the 9th carbon.
+
+Phospholipids
+Phospholipids are major components of the plasma membrane in a cell.
+Their structure is comprised of 3 key components:
+1: A glycerol body or 'backbone'.
+2: Two fatty acid 'tails' which act as a hydrophobic end of the molecule.
+3: A phosphate group 'head' which acts as a hydrophilic end of the molecule.
+Having a hydrophobic & hydrophilic part makes phospholipids 'amphipathic molecules'.
+In the cell membrane, the hydrophilic phosphate heads face outwards and the hydrophobic tails face inwards -- this helps the cell retain its form in fluid and regulate the intake of particles.
+
+Steroids
+Steroids have a fused ring structure.
+Although they do not resemble other lipids, they're grouped in because they're hydrophobic and insoluble.
+All steroids have 4 linked carbon rings and some of them (E.G: Cholesterol) have a short tail.
+Many steroids have the hydroxyl functional group, which puts them in the alcohol classification, or 'sterol'
+Cholesterol is the most common steroid.
+The liver synthesizes with cholesterol and it's the precursor to many other steroids, such as testosterone and estradiol.
+It is also the precursor to vitamin d cholesterol & bile salts, which help emulsify fats to be absorbed by cells.
+Cholesterol are vital components in the human body and are even components of the phospholipid layer of the plasma membrane.
+
+Cholesterol will add itself to the phospholipid bilayer in cell membranes.
+If you have too much cholesterol, it can widen the cell membranes so much that it chokes bloodvessels.
+
+Simple recognition of steroids:
+Steroids all have 3 hexagons & one pentagon in their structure.
+
+Estrogen has a benzene connected to a hydroxyl group on the bottom left.
+Testosterone has a cyclo pent-2-ene doubly bound to an oxygen on the bottom left.
+Cholesterol has 'tail' on the top right and a hydroxyl group on the bottom left.
+
+https://openstax.org/books/biology-2e/pages/3-3-lipids

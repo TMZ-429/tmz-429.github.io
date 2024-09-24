@@ -1,0 +1,111 @@
+A biomolecule is a molecule produced by living organisms.
+The definition is rather loose.
+
+A carbohydrate is a biomolecule that contains Carbon, Hydrogen and Oxygen.
+Carbohydrates contain hydroxyl groups, therefore they always end in -OH (Contain hydroxyl)
+They also contain a ratio of 2H : 1O (Most of the time*)
+
+Carbohydrates are essential to metabolism, as they are an energy source for the body.
+
+There are three types of carbohydrates
+-Sugars
+-Starches
+-Fiber
+
+There are 3 types of chemical configurations that carbohydrate may have
+Monosaccharides, disaccharides & polysaccharides.
+
+Monosaccharides, which are single units of sugar, such as glucose (C6H12O6).
+Considered 'simple carbohydrates'
+
+Disaccharides, which are two sugar molecules joined together.
+For example, lactose (C12H22O11) appears normal from its chemical composition.
+But, looking at its lewis or ray diagram shows two molecules joined together by an oxygen atom.
+Those two molecules are glucose and galactose.
+Considered 'simple carbohydrates'
+
+Polysaccharides
+Multiple sugar molecules chained together (Greater than two)
+These are considered 'complex carbohydrates'
+Since there are multiple sugars in a complex carbohydrate, that means it's more nutritious and has a more diverse amount of nutrition than simple carbohydrates.
+
+Sugar
+Sugars are considered to be simple carbohydrates, there are two types of sugars
+Simple sugars, which are monosaccharides.
+Compound sugars, which are disaccharides.
+
+For example, glucose is a simple sugar and is simply glucose, making it a monosaccharide.
+Sucrose on the other hand is a compound sugar and is made of glucose & fructose, making it a disaccharide.
+
+Fibre
+Fiber is plant matter that isn't capable of being digested by the body.
+This means that it isn't absorbed and instead passes all the way through the digestive tract.
+
+There are two kinds of fibre
+Soluble
+Insoluble
+
+Soluble fibre dissolves in water and mixes with digested food which slows down the absorption of sugar into the blood, helping regulate blood sugar levels.
+Insoluble fibre speeds up the passage of food in the digestive tract and helps bind it together into a more solid form.
+
+Fibres are considered to be complex carbohydrates
+
+Starch
+Starches are polymeric carbohydrates, meaning they are very large repeated chains of the same type of molecules.
+Starches in specific are made up of multiple units of glucose and it's what plants use to store glucose instead of glycogen.
+
+There are two types of starch, both are defined by being a polymer of glucose.
+Amylose & Amylopectin.
+Amylose is a straight chain of alpha-glucose bound in 1-4-alpha-glycosidic bonds that forms into an amorphous shape.
+Amylopectin is a branched chain that forms into a crystalline substance.
+
+Amylose is an alpha-1-4 glycosidic bond.
+Amylopectin is an alpha-1-6 glycosidic bond
+
+Starches are considered to be complex carbohydrates (As if them being polymers didn't make that apparent enough)
+
+(Some etymology: You may hear "polymer" referring to plastics like kevlar -- a polymer is a polymeric molecule)
+
+Alpha vs Beta glucose
+The difference between alpha & beta glucose is the configuration of hydroxyl & hydrogen on the right side of their diagram.
+In alpha glucose, the hydrogen is pointed upwards while the hydroxyl is pointed down.
+In beta glucose, the hydrogen is pointed downwards and the hydroxyl is pointed upwards.
+
+Alpha glucose is considered less stable than beta glucose.
+
+Categories of sugars based on their carbon amount/shape:
+triose  = 3 carbons
+tetrose = 4 carbons
+pentose = 5 carbons
+hexose  = 6 carbons
+heptose = 7 carbons
+(Named with greek syntax)
+
+Sources:
+https://medlineplus.gov/carbohydrates.html
+https://www.medicalnewstoday.com/articles/161547#definition
+https://www.livescience.com/51998-dietary-fiber.html
+https://my.clevelandclinic.org/health/articles/15416-carbohydrates
+https://www.medicalnewstoday.com/articles/what-is-starch
+https://www.sciencedirect.com/topics/chemistry/amylose
+
+Random notes I took during class:
+
+Glucose
+
+Glucose has isomers (Specifically D & L glucose)
+The body can only process D-Glucose.
+The two forms glucose can exist in are straight chain & ring form.
+The straight chain can form into the ring via a condensation reaction.
+L-glucose is a mirrored form of D-glucose. (They're both straight-chains)
+L-glucose will be ignored for the sake of this course*
+
+
+There are two types of ring glucose's -- alpha & beta glucose.
+Beta glucose is considered more stable than alpha glucose.
+Maltose is an alpha-1-4-glycosidic bond between 2 glucoses.
+It's a glycosidic bond between two alpha glucose's between the 1st & 4th carbons.
+
+Maltose is a disaccharide (2 glucoses bound together) in an alpha bond (it's 2 alpha-glucose's bound together)
+
+When counting carbons in a carbohydrate, go towards the closest functional group.

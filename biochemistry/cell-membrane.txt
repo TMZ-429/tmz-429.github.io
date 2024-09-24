@@ -1,0 +1,47 @@
+The cell membrane / phospholipid bilayer / fluid mosaic model.
+
+Phospholipids:
+A glycerol connected to a phosphate group, a saturated fatty acid and a cis-monounsaturated fatty acid.
+
+The phosphate has an R-Group attached to the top.
+The most common one is choline.
+
+Phospholipids have a hydrophilic head (The phosphate group)
+and a hydrophobic tail (The fatty acids)
+
+Integral proteins
+Integral proteins are functionally 'doorways' between extracellular fluid & intracellular fluid.
+Integral proteins are designed in a way that only certain chemicals may enter and exit (They simply fit or don't fit through).
+Chemicals enter & exit by means of diffusion.
+Integral proteins have allosteric sites.
+For example, glucose has insulin that works as a 'key' to the allosteric site for its integral protein.
+This is considered 'passive transport'.
+
+Sometimes 2 integral proteins form together to make an entrance for bigger things.
+This is active transport because it needs energy. It needs energy because it's going against the laws of diffusion and is instead just bringing things in.
+
+Shuttles / Intrinsic proteins
+Carries things between integral proteins -- mostly electrons.
+
+Peripheral proteins
+
+Interior:
+Foundation for the cytoskeleton
+
+Exterior:
+Exterior peripheral proteins allow cells to brush up against each other and detect what they are.
+White blood cells use this to tell what's a cell that belongs within the body and what is a foreigner that should be executed.
+
+Cytoskeleton
+The foundation of the cell -- allows the cell to maintain its form while expanding, bending & contracting.
+
+Carbohydrate balls (Glycocalyx):
+Carbohydrate balls attach to the phospholipid bilayer and will become glycolipids as a result.
+Sometimes they connect to proteins and become glycoproteins.
+
+Glycoproteins:
+Glycoproteins are like emergency signals.
+For example, it can signal that its cell needs nutrients like iron.
+Another example is that if a foreign invader enters the body, a white blood cell will tag it with a glycoprotein.
+If another white blood cell detects this, it will attack the invader for a bit, then move on.
+Then, a last white blood cell will detect this and finish the job.
