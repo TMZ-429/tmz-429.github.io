@@ -1,0 +1,11 @@
+Glycosidic:
+2 carbohydrates
+
+Peptide:
+2 amino acids
+
+Ester:
+Glycerol & a fatty acid
+
+phosphoester or phosphodiester
+Phosphate & ribose/deoxyribose sugar

@@ -1,0 +1,31 @@
+Diffusion:
+Solutions want to have an equal concentration across their entire area.
+If you had a cell with 4 solutes in it, but the outside has 3 solutes, the outside would have a lower concentration than the inside.
+Therefore, to lower that concentration, solutes would exit the cell and vice-versa if it was a lower concentration in the cell.
+
+Simple vs facilitated.
+Simple diffusion is small molecules simply diffusing in & out of for example a cell membrane.
+In a cell, due to the phospholipid bilayer, nonpolar and small molecules can get through via simple diffusion.
+
+Facilitated diffusion:
+Facilitated diffusion requires openings in the cell membrane to achieve.
+It allows large molecules, polar molecules and ions to enter.
+This is achieved through structures such as aquapores and integral proteins.
+
+Osmosis:
+Osmosis is the movement of water across a semi-permeable membrane.
+Essentially, if there are two solutions of differing concentrations, the water itself will move from the low concentration to the high concentration.
+Or in other words, water moves from high concentration of water to low concentration of water.
+
+If a cell is in a hypotonic solution (I.E: Water around is at a higher concentration), the cell will balloon or 'blow up' from water entering it.
+If a cell is in a hypertonic solution, the cell will shrivel and give water to the surroundings.
+
+
+Hypotonic surrounding = hypertonic cell
+Hypertonic surrounding = hypotonic cell
+
+[Hypo,hyper,iso]-tonic:
+Hypo  = low
+Hyper = high
+iso   = same
+tonic = concentration

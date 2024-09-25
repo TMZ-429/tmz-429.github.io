@@ -1,0 +1,10 @@
+A functional group is a group of atoms that when covalently bound to another molecule will influence its characteristics (I.E: Influence what sort of chemical reactions it may have.)
+As a result of this, certain attributes of a compound can be predicted simply because of the functional group it belongs to.
+
+Functional groups:
+hydroxyl: -OH
+carbonyl: =O
+carboxyl: −C(=O)−OH
+amino   : -NH2
+methyl  : -CH3
+amide	: -(=O)-NH2
