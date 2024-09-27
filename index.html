@@ -24,7 +24,7 @@
 <title>The White Library</title>
 
 <script>
-    function create_EL(directory, files) {
+    function createElementTable(directory, files) {
         let title = document.createElement('h1');
         title.innerHTML = directory;
         document.body.appendChild(title);
@@ -48,7 +48,7 @@
     </p>
     <button style = 'position: relative; left: 15%; right: 15%;' type="button" class="btn btn-primary" onclick="submitCorrection()">Contact Owner</button>
     <script>
-        create_EL("biochemistry", [
+        createElementTable("biochemistry", [
             "bonds",
             "carbohydrates",
             "cell-membrane",
@@ -57,7 +57,8 @@
             "lipids",
             "nucleic-acids",
             "osmosis",
-            "proteins"
+            "proteins",
+            "practice_test"
             ]
         );
     </script>
