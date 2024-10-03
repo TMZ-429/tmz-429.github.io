@@ -1,0 +1,18 @@
+For some reason we have to remember LEO_GER:
+Lose Electron Oxidation, Gain Electron Reduction
+
+Glycolysis
+Glycolysis starts any energy expenditure in a cell.
+Carrier molecules (Namely, NAD+) capture electrons to use as energy for this process.
+4 Electrons are required, and the NAD+'s gather a hydrogen each.
+Therefore, to gather the two electrons, 2NADH's are made.
+
+The next part of this process is referred to as 'substrate level phosphorilation'
+The glucose is captured and by the enzyme 'hexokinase' and phosphoralized by it -- using dehydration synthesis to bond a phosphate to the 6th carbon, turning into glucose-6-phosphate.
+The phosphate used for the phosphoralization is from hydrolysized ATP.
+The glucose-6-phosphate is then isomerized into fructose-6-phosphate due to phosphoglucose isomerase (Another enzyme)
+Another phosphate group is bound to fructose, turning it into fructose 1-6 biphosphate by PFK (Phosphofructokinase).
+The same ATP does not give its two phosphates to the glucose & fructose -- only ATP is going to be giving its phosphates.
+
+The 6 carbon glucose is broken down into 2 3-carbon molecules called 'pyruvate'.
+
