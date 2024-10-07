@@ -1,0 +1,13 @@
+The pyruvate oxidation procedure is meant to alter pyruvate into a state where it's usable for the citric acid cycle of cellular respiration.
+
+Pyruvate oxidation:
+For each pyruvate:
+The pyruvate enters the mitochondria through an integral protein leading to the matrix.
+The two oxygens & carbon on the top of the pyruvate (C(=O)-O) are oxidized off of the pyruvate, resulting in CO2.
+The pyruvate is then bound to pyruvate dehydrogenase.
+The hydroxyethyl group from the pyruvate is oxidized into an acetyl group.
+NAD+ becomes NADH by collecting electrons from the previous reaction and also binding with the hydrogens littered throughout the lumen.
+An acetyl group is then transferred to Coenzyme A, turning the pyruvate into pyruvate CoA.
+
+When oxidized, acetyl CoA delivers its acetyl group to the four-carbon molecule oxolacetate, forming citrate.
+The citrate is used as fuel for the citric acid cycle.
