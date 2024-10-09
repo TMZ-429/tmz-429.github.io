@@ -1,6 +1,3 @@
-For some reason we have to remember LEO_GER:
-Lose Electron Oxidation, Gain Electron Reduction
-
 Glycolysis
 Glycolysis starts any energy expenditure in a cell.
 Carrier molecules (Namely, NAD+) capture electrons to use as energy for this process.
@@ -14,5 +11,15 @@ The glucose-6-phosphate is then isomerized into fructose-6-phosphate due to phos
 Another phosphate group is bound to fructose, turning it into fructose 1-6 biphosphate by PFK (Phosphofructokinase).
 The same ATP does not give its two phosphates to the glucose & fructose -- only ATP is going to be giving its phosphates.
 
-The 6 carbon glucose is broken down into 2 3-carbon molecules called 'pyruvate'.
+Aldolase breaks down the fructose 1-6 biphosphate into 2 3-carbon molecules.
+One is DHAP, the other is GAP or G3P. They are mirror images and therefore not the same molecule.
+However, they're both reshaped into phosphoglycerate by TIM.
+NAD+ then grabs the electrons and hydrogen that are displaced again, forming another 2NADH.
+The 2NADH then 'goes somewhere'.
+Free floating phosphates then connect to the ends of the G3P.
+ADP's then retrieve phosphates from the phosphoglycerate's (Two ATP's are formed)
+Then, the phosphoglycerates are changed into 2-phosphoglycerate.
+The phosphates are changed via hydrolysis & subsequent dehydration synthesis.
+Then, ADP's come in and take away the last two phosphate groups, forming another two ATP's.
 
+The phosphoglycerates are now 2 3-carbon molecules called 'pyruvate'.
