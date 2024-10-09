@@ -1,0 +1,28 @@
+Krebs Cycle
+-Occurs within the matrix of the mitochondria
+-Occurs when Acetyl CoA enters the matrix
+
+Oxaloacetate.
+looks kinda like C-C-C-C-C-C
+
+Citrate synthase
+-Is an enzyme
+-Synthesizes oxaloacetate & acetyl CoA into citrate.
+
+Citrate then reconfigures itself into isocitrate.
+Isocitrate then loses a carbon & two oxygens, turning into alpha-ketogluterate.
+Then NAD+ collects the newly freed electron.
+Then, a-ketogluterate loses another CO2 and another Coenzyme A attaches to the free slot.
+This turns it into Succinyl Coenzyme A.
+Then, an inorganic phosphate displaces the new Coenzyme A.
+A GDP then collects the inorganic phosphate from the Succinate, so that it can give the phosphate to ADP's to make ATP.
+
+Succinate (4 carbon molecule w/ a double bond) then turns into fumarate by removing its own double bond.
+More elctrons are freed, then FAD2+ enters and scoops the elctrons up to become FADH2.
+Then, the fumarate becomes malate through water reforming it.
+Then, malate becomes oxaloacetate, displacing electrons and causing NAD+ to pick them up and become NADH.
+
+Per glucose, the krebs cycle produces:
+2 ATP
+6 NADH
+2 FADH2
