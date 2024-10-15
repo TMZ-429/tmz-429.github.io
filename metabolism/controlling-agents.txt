@@ -1,0 +1,15 @@
+PFK
+Phosphofructokinase is inhibited by an abudndance of ATP.
+So if there's too much ATP in the cell, PFK is shut down.
+When ATP starts getting used, phosphofructokinase is starting to be activated.
+
+Hexokinase
+Hexokinase is inhibited by an abundance of NADh.
+If there's too much NADH, it just shuts down.
+This is the reason lactic acid fermentation occurs if ATP stores are low or 0.
+
+A high concentration of NADH means the Electron Transport Chain is backed up.
+NADH abundance also inhibits citrate synthase which in turn increases Acetyl CoA, as it's not being further processed.
+
+Each cell has a threshold of ATP.
+When supplies are low (Meaning ADP levels are high), then hexokinase & phosphofructokinase are activated.

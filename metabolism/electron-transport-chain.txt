@@ -1,0 +1,35 @@
+The Electron Transport Chain
+The ETC is a series of electron carriers and protein complexes bembedded in the inner mitochondrial matrix membrane that accept and donate electrons in a sequential series resulting in oxidative phosphorylation (O.P).
+Oxidative Phosphorilation is a process that couples the oxidation of NADH and FADH2 by the ETC with the synthesis of ATP from ADP + Phosphate.
+
+Key points:
+Protons released during the previous steps are taken to the ETC by coenzymes NAD+ & FADH2.
+In their reduced form, NADH & FADH2 carry a pair of electrons.
+ETC is a series of integral proteins embedded in the inner mitochondrial membrane.
+Electrons move from protein to protein using their energy to pump Hydrogen ions from the matrix to the lumen.
+The pumping causes a huge concentration difference of protons
+This is referred to as a chemiosmotic gradient
+The increased concentration of any element will flow from high to low concentration (Diffusion laws)
+The protons are allowed to diffuse back from the lumen to the matrix but only through the integral protein (ATP synthase)
+For every proton that goes through the ATP synthase, 1 ATP is created
+At the end of the ETC, the energy drained (Electrons spent) combine with oxygen molecules and protons in the matrix to create water, helping keep the pH neutral in the matrix.
+Oxygen is the final electron acceptor.
+
+NADH dehydrogenase, B-C Complex & Cytochrome C Oxidase must be right next to each other.
+They are preceeded by a Glycerol Phosphate Shuttle & an ATP Synthase.
+They're bunched up like a group together and there is only ever full groups.
+This is chemi-osmosis because there's always a diffusion of excess hydrogen from the mitochondria.
+This allows the hydrogen to come in & out of the matrix as it will -- sort of like a waterfall that leads to a river that flows back in on itself.
+
+Integral proteins:
+NADH Dehydrogenase:
+-Dehydrogenates NADH, resulting in 2 electrons being released & an NAD+
+
+Ubiquinone shuttles electrons between NADH dehydrogenase & b-c complex.
+The B-C Complex uses electrons to move hydrogen out of the matrix & into the inter-layer.
+Then, the electrons are shuttled through cytochrome-c to cytochrome c oxidase, which is used to bond oxygen with hydrogen, creating water.
+The resulting hydrogen enters ATP synthase & is used to synthesize ADP & Phosphate into ATP.
+
+Glycerol Phosphate Shuttle
+NADH from glycolysis enter the Glycerol Phosphate Shuttle and become functionally FADH2 -- they can only produce 2 ATP each like FADH, even if they're actually NADH.
+It's due to the energy from the electrons being used from glycolysis all the way through entering the Glycerol Phosphate Shuttle.
