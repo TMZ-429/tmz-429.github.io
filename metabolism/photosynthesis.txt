@@ -1,0 +1,46 @@
+Photosynthesis big picture:
+Carried out by plants, algae, protists, cynobacteria
+(Carried out by anything with a chloroplast/chlorophyll)
+Electrons in a porphyrin ring of chlorophyll absorb light energy.
+The overall process is broken down into 3 distinct phases:
+1: Capturing light energy (The light reaction)
+2: Creating NADPH and ATP
+3: Using 'energy' to fix CO2 into organic compounds (Binding with hydrogen)
+
+The Calvin Cycle effectively takes CO2 input and turns it into CH2O.
+The Light reactions take water in and turn it into oxygen output.
+NADP+ from the Calvin Cycle is given to the thylakoids in the light reactions, along with ADP.
+The light reactions convert it to NADPH & ATP to give into the Calvin Cycle.
+
+Plants don't necessarily make glucose -- they'd prefer to make fructose in actuality.
+
+Anatomy of the chloroplast:
+Outer shell / membrane -> stroma
+individual disk-shaped unit -> thylakoid
+stack of thylakoids -> granum
+There are holes in chlorophyll pigments that are to be filled with electrons
+"Wiring" connecting grana: lamellae
+
+Inside of a thylakoid are reflective surfaces (sort of like mirrors) that take light rays & bounce them around to focus them into a focal 'P.E.A' point.
+P.E.A = Primary Electron Acceptor.
+Plants' electron transport chain is much more efficient than animals'.
+
+Plants have two photosystems - P680 & P700.
+
+The Chemiosomotic Gradient (Essentially the electron transport chain that occurs in the light cycle).
+Sunlight enters PSII, which is used by the Z-Enzyme to split water into half an oxygen molecule & 2 hydrogen ions.
+This produces 2 electrons & kicks oxygen out as a waste product.
+The electron excited out of PSII are shuttled by the intrinsic protein PQ into the B6-F Complex.
+
+The B6-F complex is an integral protein which takes hydrogen ions from outside of the lumen & places them inside of the lumen.
+Then, it shuttles the electron through PC to PSI
+PSI restimulates electrons with solar energy
+
+The electron is then shuttled by Ferrodoxin (Fd) into NADP Reductase, which reduces NADP+ by combining it with hydrogen into NADPH.
+NADP reductase actually has 2 electrons to give to NADPH.
+
+Hydrogens can only leave through ATP Synthase -- they rush out of it 4 at a time, creating the energy to synthesize ADP with Inorganic Phosphate to create ATP.
+Think of the hydrogens leaving ATP synthase like a proton waterfall & the light reaction cycle is sort of like a big hydroelectricity plant.
+ATP synthase in plants needs 4 hydrogens coming out of it to make 1 ATP.
+6 hydrogens are produced in total.
+4 are needed for ATP synthase usage, the rest are used for Carbon Dioxide conversion & NADP reductase.

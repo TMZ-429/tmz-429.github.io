@@ -1,0 +1,15 @@
+Lipid Metabolism:
+Breaking lipids down into nutrients
+
+A triglyceride is broken down into a glycerol + fatty acid
+2 glycerol can be converted into a glucose called gluconeogenesis (Evangelion)
+The gluconeogensis has a bit too many hydrogens, though (16 to be specific)
+A fatty acid enters the mitochondrial matrix via beta oxidation.
+The process removes 2 carbons at a time and combines with Coenzyme A to become Acetyl CoA, which is used in the krebs cycle.
+It's easier to process saturated fatty acids than unsaturated fatty acids and especially trans unsaturated fatty acids.
+
+Protein catabolism:
+Protein catabolism is the absorption of protein as nutrients to fuel cellular respiration.
+Deamination
+The amino group is removed and converted to ammonia in the liver and removed via the urinary tract.
+The remaining who carbon molecules enter the krebs cycle, with the support of Coenzyme A.

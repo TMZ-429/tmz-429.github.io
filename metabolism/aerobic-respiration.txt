@@ -1,0 +1,17 @@
+Lactic Acid fermentation:
+Glycolysis needs NAD+ to function
+NADH has to be generated for glycolysis to continue
+Lactate is a holding molecule until O2 can be retrieved and it can be converted back into pyruvate.
+If O2 is not retrieved in time, lactate becomes lactic acid because there aren't enough NAD+'s to take the hydrogens around, and they bond to lactate.
+Lactic acid like hurts and stuff.
+
+This happens because the hydrogen from NADH is put in lactate and the NAD+ is used for glycolysis.
+But, it causes an 'oxygen-debt' of course.
+
+Ethanol fermentation
+Happens for the same reason as lactic acid fermentation, in that there are too many NADH's and not enough NAD+'s.
+The key difference is that a CO2 is removed from pyruvate with pyruvate decarboxylase, foirming acetylaldehyde.
+Acetylaldehyde receives 2 electrons and 2 hydrogen ions from the cytosol to form ethanol.
+2 ATP's are produced as long as carbohydrates are available.
+
+Ethanal is ethanol minus a hydrogen.

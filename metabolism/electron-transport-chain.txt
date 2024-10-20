@@ -1,9 +1,12 @@
+Definitions:
+Chemiosmosis: The movement of ions across a semi-permeable membrane via ATP-Synthase
+
 The Electron Transport Chain
 The ETC is a series of electron carriers and protein complexes bembedded in the inner mitochondrial matrix membrane that accept and donate electrons in a sequential series resulting in oxidative phosphorylation (O.P).
 Oxidative Phosphorilation is a process that couples the oxidation of NADH and FADH2 by the ETC with the synthesis of ATP from ADP + Phosphate.
 
 Key points:
-Protons released during the previous steps are taken to the ETC by coenzymes NAD+ & FADH2.
+Protons released during the previous steps are taken to the ETC by coenzymes NADH & FADH2.
 In their reduced form, NADH & FADH2 carry a pair of electrons.
 ETC is a series of integral proteins embedded in the inner mitochondrial membrane.
 Electrons move from protein to protein using their energy to pump Hydrogen ions from the matrix to the lumen.
@@ -31,5 +34,5 @@ Then, the electrons are shuttled through cytochrome-c to cytochrome c oxidase, w
 The resulting hydrogen enters ATP synthase & is used to synthesize ADP & Phosphate into ATP.
 
 Glycerol Phosphate Shuttle
-NADH from glycolysis enter the Glycerol Phosphate Shuttle and become functionally FADH2 -- they can only produce 2 ATP each like FADH, even if they're actually NADH.
+NADH from glycolysis enter the Glycerol Phosphate Shuttle and become functionally FADH2 -- they can only produce 2 ATP each like FADH2, even if they're actually NADH.
 It's due to the energy from the electrons being used from glycolysis all the way through entering the Glycerol Phosphate Shuttle.

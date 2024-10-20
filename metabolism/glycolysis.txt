@@ -1,3 +1,6 @@
+For some reason we have to remember LEO_GER:
+Lose Electron Oxidation, Gain Electron Reduction
+
 Glycolysis
 Glycolysis starts any energy expenditure in a cell.
 Carrier molecules (Namely, NAD+) capture electrons to use as energy for this process.
@@ -23,3 +26,13 @@ The phosphates are changed via hydrolysis & subsequent dehydration synthesis.
 Then, ADP's come in and take away the last two phosphate groups, forming another two ATP's.
 
 The phosphoglycerates are now 2 3-carbon molecules called 'pyruvate'.
+Pyruvate:
+O-
+|
+C=O
+|
+C=O
+|
+CH3
+
+Pyruvates are the 'starters' of pyruvate oxidation
