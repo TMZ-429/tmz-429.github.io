@@ -1,0 +1,10 @@
+CAM -> Crassalcean Acid Metabolism
+Used by succulent plants, such as pineapple & cacti.
+
+-Specific daily pattern triggered by photoreceptors on the guard cells.
+-Stomata opens at night when the photoreceptors return negative.
+-CO2 enters the stomata & is incorporated into a 4-carbon organic acid via PEP Carboxylase.
+-The organic acid is stored in the large central vacuole
+-During the day time, the organic acid is broken down to steadily release CO2 into the plant.
+-Then, in the night, there's a very little concentration of CO2 within the plant and high concentration of O2, so the O2 rushes out and is immediately replaced by CO2.
+

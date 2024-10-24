@@ -27,12 +27,29 @@ Plants' electron transport chain is much more efficient than animals'.
 
 Plants have two photosystems - P680 & P700.
 
+PSII:
+A protein-pigment complex.
+
+P680
+Takes & absorbs energy for use
+
+Chlorophyll a
+Makes up P680
+
+PSI
+Another protein-pigment complex
+
+P700
+
+Chlorophyll b
+
+
 The Chemiosomotic Gradient (Essentially the electron transport chain that occurs in the light cycle).
-Sunlight enters PSII, which is used by the Z-Enzyme to split water into half an oxygen molecule & 2 hydrogen ions.
+Sunlight enters PSII, which is used by the Z-Enzyme to split water into half an oxygen molecule & 2 hydrogen ions.	
 This produces 2 electrons & kicks oxygen out as a waste product.
 The electron excited out of PSII are shuttled by the intrinsic protein PQ into the B6-F Complex.
 
-The B6-F complex is an integral protein which takes hydrogen ions from outside of the lumen & places them inside of the lumen.
+The B6-F complex is an integral protein which takes 4 hydrogen ions from the stroma & places them inside of the lumen.
 Then, it shuttles the electron through PC to PSI
 PSI restimulates electrons with solar energy
 
@@ -44,3 +61,49 @@ Think of the hydrogens leaving ATP synthase like a proton waterfall & the light 
 ATP synthase in plants needs 4 hydrogens coming out of it to make 1 ATP.
 6 hydrogens are produced in total.
 4 are needed for ATP synthase usage, the rest are used for Carbon Dioxide conversion & NADP reductase.
+
+Calvin Cycle:
+1 Glucose per 2 cycles
+
+There are three major parts of the Calvin Cycle:
+Carbon Fixation
+Reduction
+Regeneration of starting substances
+
+Carbon Fixation
+Rubisco combines a CO2 with a Ribulose-1,5-biphosphate (RuBP), which then splits in half into two phospho-3-glycerates.
+
+Reduction
+Each molecule of 3-PGA has an ATP turn into an ADP by giving a phosphate to it, turning it into 1,3-biphosphoglycerates
+The 1,3-biphosphoglycerates are then reduced -- they are given electrons, which displaces the 1st phosphate.
+Also hydrogens are added to fix the O- on each G3P.
+This creates 1 inorganic phosphate & a NAD+ per G3P.
+Now they're G3P or glyceraldehyde-3-phosphate.
+
+The resulting ADP & NAD+ are needed for the light reactions -- these cycles effectively feed into each other.
+
+Regeneration
+Some G3P are needed for regeneration, although, others are actually sent off to be packaged into different carbohydrates (Cellulose, fructose, amylose, etc).
+1/6 G3P are packaged off, the rest of them are used to regenerate back into Ribulose-1,5-biphosphate (RuBP).
+
+Results of a complete round of the Calvin Cycle:
+3CO2s + 3RuBP -> G3P + 5(G3P)
+9(ATP) -> 9(ADP)
+9(NADPH) -> 9(NADP+)
+
+Photorespiration:
+(I.E: When the plant is suffocating).
+When it's hot & dry outside, the guard cells close off stomata in the outer epidermal layer.
+As a result, CO2 cannot enter and O2 can't exit.
+Within the Calvin Cycle, Rubisco is going to be grabbing O2 instead of CO2 as a result of this.
+In order to finish the Calvin Cycle, it needs to grab Carbon from its own structural integrity to subsist.
+Once it's eaten about 25% of itself, it's basically dead.
+This happens to plants that need groups of 3 Carbons.
+
+C4 plants (Plants with 4 carbon intermediates) can actually come back from wilting much easier.
+These plants have a set of cells within their bodies that hold C to use as, like a storage system - it's called a spatial separation of CO2.
+These special cells are called 'mesophyll'
+PEP (Phosphophenyl Pyruvate, or Pyruvate with a phosphate) is held within this part of the plant -- pyruvate has an ATP add a phosphate to it.
+It uses PEP Carboxylase to turn CO2 & PEP into oxolacetate, which then is turned into malate.
+Then, malate releases a CO2 & turns back into pyruvate to be put back in the cell.
+This process, however, kills chlorophyll.

@@ -1,0 +1,24 @@
+Net CO2 uptake or net O2 evolution is measured to determine rate of photosynthesis.
+
+Net CO2 uptake = Co2 uptake - CO2 evolution - cO2 evolution or PS - PR - CR
+Net O2 evolution = O2 evolution - O2 uptake - O2 uptake or PS - PR - CR
+
+Different plants have separate photosynthetic rates & cellular respiration rates.
+
+During the night, they actually make more CO2 than they use,  due to the lack of photosynthesis occuring.
+
+Graphs I need to look at:
+
+Rate of CO2 uptake / irridance
+-As light increases, CO2 intake increases -- this is obvious because it just means if the sun is shining, the light & Calvin reactions happen.
+-Scale is logarithmic, meaning there's eventually a point of diminishing returns for increasing sunlight.
+-This scale is shorter for arctic plants & taller for rainforest plants.
+
+Photosynthetic rate / Temperature
+-As temperature increases, photosynthetic rate increases - due to rubisco working better in hot temperatures
+-It's basically parabolic, meaning there's a peak temperature where rubisco stops being as functional, then at 40 degrees celsius, rubisco simply turns off.
+
+Photosynthetic rate / Ambient Leaf Temp
+-Scale is negatively linear for C3 plants
+-C4 plants are still negatively linear, but with a very miniscule slope
+
