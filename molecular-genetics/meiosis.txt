@@ -1,0 +1,47 @@
+Mitosis:
+
+Interphase:
+Growth I
+Synthesis
+Growth II
+
+Growth I:
+Cell like grows a bit
+
+Synthesis:
+Each organelle in the cell is cloned
+
+Growth II:
+Grows too I guess
+
+
+An individual nucleotide is made of a pentose sugar, a phosphate group and a nitrogenous base.
+Multiple nucleotides strung together make up a strand of DNA or RNA.
+Bond points are 3 & 5 on the pentose sugar.
+The top of the strand's 5th point will be a phosphate.
+The bottom of the strand's 3rd point will be a hydroxide.
+This is 5-prime & 3-prime.
+
+Nitrogenous bases connect together through hydrogen bonds.
+Adenosines connect to Thymines & Guanines connect to Cytosines.
+
+CG is 3 hydrogen bonds.
+AT is 2 hydrogen bonds.
+
+How DNA replciates itself:
+
+One theory poses that it just sorta copies itself.
+But this is wrong because kill yourself
+
+Another theory poses that it breaks itself apart & reforms like bones, while the broken off parts reform into another strand of DNA.
+This is also wrong because hang yourself
+
+
+What happens is the strand is separated into its two strands.
+Then, a new strand is made by having several points which are then segments of nucleotides.
+These individual segments all work at the same time to build forward in the same direction.
+Imagine you had to build an array of 2048 components.
+Instead of going: for (int i = 0; i < 2048; i++, array[i] = whatever), which would be building the array one at a time forward.
+You instead section off the 2048 array into 128 byte intervals and have threads concurrently build forward 128 bytes.
+
+This process is called replication bubble theory of semi-conservative DNA replication.
