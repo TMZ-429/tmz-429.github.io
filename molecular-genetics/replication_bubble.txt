@@ -7,7 +7,6 @@ def fill(starting_point):
 	for i in range(128):
 		array[starting_point + i] = 1
 
-threads = []
 for i in range(16):
 	thread(target = fill, args = (128 * i,)).start()
 
