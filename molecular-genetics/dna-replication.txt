@@ -1,20 +1,3 @@
-Mitosis:
-
-Interphase:
-Growth I
-Synthesis
-Growth II
-
-Growth I:
-Cell like grows a bit
-
-Synthesis:
-Each organelle in the cell is cloned
-
-Growth II:
-Grows too I guess
-
-
 An individual nucleotide is made of a pentose sugar, a phosphate group and a nitrogenous base.
 Multiple nucleotides strung together make up a strand of DNA or RNA.
 Bond points are 3 & 5 on the pentose sugar.
