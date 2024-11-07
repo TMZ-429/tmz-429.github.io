@@ -1,0 +1,46 @@
+Central Dogma of Genetics
+
+The biggest contributing factor of the DNA is to make proteins (Carry out protein synthesis with the nucleolus)
+Doesn't say to make carbohydrates or fat -- just says to make proteins, as they're the most important part of bodily function.
+
+The point is to get the chromatin to ribosomes and get them to enter the rough endoplasmic reticulum, have the product sent to the golgi and have a protein functional.
+How does DNA use itself like this without needing to be replicated at all times?
+the answer is transcription.
+
+Transcription
+Transcription is a system that tells the cell to take the correct part(s) of the DNA strands and use its instructions for any given function.
+RNA Polymerase is what reads a single strand in a chromosome.
+Promoters are what help the RNA Polymerase figure out where to start reading from.
+
+The TATA Box:
+A complex of thymines & adenosines connected together on each strand on the chromosome.
+Since their bond is the weakest among nitrogenous bases, RNA Polymerase slips in easily
+
+Template:
+The template is the section of chromatin that is to be replicated.
+
+RNA Polymerase reads the template and creates an equivalent mRNA strand.
+(Remember: In RNA, Uracil is used instead of Thymine)
+Towards the end, there's a ton of Cs in a row, thus tightening the chromatin.
+The resulting guanines on the mRNA strand create a 'twist' which eventually breaks the RNA strand off.
+
+When a ribosome collects an mRNA strand, it interprets the nitrogenous base sequences and collects appropriate amino acids.
+Much like a CPU collecting data from its registers and doing something with the values.
+
+Pre-mRNA:
+What's created during transcription during the process of mRNA synthesis.
+Endonucleases eat pre-mRNA that's incorrectly made and forces it to be recycled.
+In order for mRNA to leave the nucleus, it has a 5-prime cap that's made of 7 guanines, which are fed to the endonucleases.
+It also has a poly-A tail which is made of a bunch of Adenosines, which are very similar.
+
+Splicesome:
+Splicesome will take excess segments that are unecessary to the mRNA's function.
+There are two types of segments within an mRNA strand:
+Introns and extrons.
+Introns are meant to stay within the nucleus, so splicesom will cut them off.
+
+
+The the rapist made me smiley
+       ^                    ^
+Take away the introns:
+The therapist made me smile

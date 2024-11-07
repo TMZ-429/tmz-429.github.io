@@ -1,0 +1,4 @@
+The process of transcription is very analogous to the process of collecting a file from a hard drive or a variable from RAM.
+The promoter is equivalent to the starting address of the file content.
+Then, the sequence of nitrogenous bases is very analogous to the binary sequence on the hard drive that represents bytes on a hard drive.
+The end of the sequence where the mRNA strand creates guanines until it twists itself off is effectively the same as a mechanism that tells a computer that this is the end of the memory address and to stop going, lest it bleed into another locus or bleed into another memory address.
