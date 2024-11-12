@@ -1,0 +1,31 @@
+Translation
+
+A Codon is a 3-nitrogenous base group.
+Think of it like a 3 bit byte.
+
+A ribosome is a 3 part mechanism that is sort of like a CPU register.
+It has a big end and a small end that clamp on to mRNA strands.
+
+There are 3 sites:
+APE (Reversed on the bottom half)
+A accepts
+P is Peptide
+E is for exit
+
+For all we know, there is no E and we don't know which end of the ribosome is which lmao
+
+The ribosome waits until it finds Adenine, Uracil and Guanine (AUG) in a row before starting anything related to copying.
+This is sort of like if you told a computer program to read a file and it wouldn't understand it to be the start of the file until it reads like 0xA or something to signify the start of a file.
+Alternatively, it's like a gun nerd who only cares about guns past 1978 (It's waiting for AUG to come out before it starts caring)
+
+The 3 nitrogenous base codes are interpteted by the ribosome the same way a CPU interprets kernel codes in NASM.
+E.G: CUC -> Leucine
+There are even STOP escape codes: UAA & UAG are STOP.
+
+tRNA 
+Translation RNA; Looks like a cross with an eggplant attached to the right corner.
+All tRNA's are the exact same but with 3 letters different and we don't really know where those 3 letters are.
+tRNA has an 'anti-codon' that will grab a codon and bring it to the correct ribosome.
+
+If the anti-codon/codon is 2 letters, it drops off the mRNA at the P site and leaves.
+If it's 3 letters, it sticks with the mRNA all the way to the E site.
