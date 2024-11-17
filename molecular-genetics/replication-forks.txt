@@ -1,0 +1,27 @@
+Replication Forks
+
+In a replication fork, chromatin is still wound up, it doesn't look like a forked path necessarily.
+Two enzymes help unwind the chromatin:
+-Gyrase softens the chromatin to help unwind it
+ -Also called Topoisomerase
+-Helicase 'unzips' or directly unwinds the chromatin
+
+When helicase 'unzips' the DNA strands, it separates the nitrogenous bases on each strand from each other.
+
+SSBPs are stuck to the ends of nitrogenous bases to stop them from trying to bind with each other
+SSBP = Single Strand Binding Proteins
+
+Loop:
+While helicase keeps going, it eventually reaches a point where Primase is put into use.
+Primase lays an RNA Primer on the 3-Prime end of the target strand, letting DNA Polymerase 3 know to start from there.
+DNA Polymerase 3 (DNAP3)
+-Hooks onto a 3-prime end and starts reading the strand while moving towards 5-prime.
+-In doing so, it also builds the corresponding strand.
+
+DNA Polymerase 1 will replace RNA Primers with appropriate DNA.
+
+DNA Polymerase 2 will come in and audit the DNA strand to make sure there aren't mutations.
+Adenine & Guanine (The purines) are the most likely to mess up.
+If there are too many mutations, it breaks down the under-construction strands and re-coils the DNA - forcing a restart.
+The loop is repeated as helicase keeps going on, creating the concurrent construction job from the bubble theory.
+
