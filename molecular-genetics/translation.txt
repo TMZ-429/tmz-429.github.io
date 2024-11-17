@@ -22,6 +22,32 @@ The 3 nitrogenous base codes are interpteted by the ribosome the same way a CPU 
 E.G: CUC -> Leucine
 There are even STOP escape codes: UAA & UAG are STOP.
 
+Substitution:
+When one nitrogenous base in a group (One bit in a byte) is changed.
+When the resulting 'byte' is the same, it's a silent mutation.
+This results in a missence mutation when the resulting 'byte' is different.
+
+Addition:
+When an insertion in the array happens.
+This leads to a frame shift.
+
+When the stop is eradicated by the insertion:
+Nonsence mutation - It does not build (Something is seriously messed up, but the ribosome will probably refuse to build it.)
+
+Sudden stop due to an insertion:
+Also a Nonsence mutation.
+Sometimes the ribosome doesn't build, other times they do, creating benign tumours.
+These aren't cancerous but the body is putting protein where it isn't supposed to be.
+
+Additions occur because somtimes tRNA is extra-energized and just kind of accidentally sneaks in an extra bit.
+
+Sometimes tRNA is super slow and a nitrogenous base isn't received.
+This is called a deletion.
+Deletion:
+It's just substitution with a '\0'
+Also causes a frame shift.
+Causes a missence if the ribosome makes it, and a nonsence if it doesn't.
+
 tRNA 
 Translation RNA; Looks like a cross with an eggplant attached to the right corner.
 All tRNA's are the exact same but with 3 letters different and we don't really know where those 3 letters are.
