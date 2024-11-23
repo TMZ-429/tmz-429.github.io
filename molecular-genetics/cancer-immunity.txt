@@ -1,0 +1,12 @@
+Malignant tumours are usually captured by the immune system -- specifically NK or natural killer cells, which are a type of white blood cell that uses cell self markers (Such as glycoproteins on the outside of the cell membrane) to determine whether or not a cell belongs in the body.
+Some cancer cells manage to escape the immune system by bypassing these NK cells.
+
+Researchers decided to look into what kind of cancers could escape NK cells and how.
+The first thing they did was use single cell RNA sequencing, which is a technique that detects exactly what sort of RNA strands are being used in a cell, matches them to the coding strand and maps out exactly what parts of the DNA sequence are being used by the cell (This is important since while every cell contains the same chromosomes, not every part of them is going to be actively used by the cell).
+Their findings were that NK cells act differently to different cancer cells -- for example, some cancers are destroyed by the NK cells, while others are ignored.
+
+Since there were different genes active within each of the cancer cells, a way to figure out which genes correlated to being destroyed by NK cells and being ignored.
+To test this, the CRISPR-Cas9 gene editing method was used to manually turn different genes on/off, which determined several undisclosed genes to be responsible for different interactions with NK cells.
+
+Sourced from:
+    https://www.sciencedaily.com/releases/2023/12/231213112900.htm

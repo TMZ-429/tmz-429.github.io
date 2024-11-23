@@ -1,0 +1,3 @@
+Fragile X syndrome is caused by a repeat of the FMR1 gene, which is a CGG trinucleotide part in a DNA strand.
+This gene is responsible for the creation of FMRP or Fragile x Retardation Proteins.
+The normal amount of this gene is <55, but the repeat causes 55+ to be made, and therefore causes an excess of FMRP's which can cause fragile X syndrome.
