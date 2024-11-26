@@ -1,0 +1,21 @@
+Bacteria don't have a nucleus, they just have a single circular chromosome.
+
+Because of this, an RNA Polymerase just sort of comes in and starts making protiens.
+As a result, they can translate proteins very quickly.
+But, to regulate this, they have on/off switches.
+
+There's a bacteria in the human body that has a promote & operator region in its plasmid.
+They also have 3 lactase regions, which take the glucose from lactose and return the galactose.
+
+They have a repressor which is placed in the operator and blocks its usage until lactose enters.
+Allolactose fits into the repressor, which sort of acts like a competitive inhibitor, changes the shape of the operator so that it can't be blocked, allowing lactose to be broken down.
+This system is called an induced fit -- something is induced into the unit and changes how it fits.
+
+Another bacteria has a promoter, repressor and 5 tryptophan sequences.
+Its repressor fits tryptophan, meaning that if there's too much tryptophan being used, it just shuts itself down until it's needed again.
+
+Repressors effectively block important DNA sequences in the gene required to build a certain protein (Such as the promoter)
+Think of it like a lock with an allosteric site to lock it that takes in the protein it's meant to regulate.
+
+Look into:
+Repressor/Promoter system
