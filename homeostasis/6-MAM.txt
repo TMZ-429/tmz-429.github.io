@@ -1,0 +1,80 @@
+6-MonoAcetylMorphine or 6-MAM is an opioid and a metabolite of heroin.
+An opioid is a group of medicines that can be natural, synthetic or semi-synthetic that are similar to or derived from the drug opium, which is found in the poppy flower.
+That are defined by their ability to enter the bloodstream and cross the blood-brain barrier to enter the brain and interact with 'opium receptors' in the brain.
+
+Opium receptors usually interact with other molecules to create neurological responses to pain or the regulation of breathing.
+Opium and opioids hijack these opium receptors to change what the brain is doing.
+
+A common example of this is the pain-killing effect of opium:
+Opium blocking molecules related to pain responses by being in the opium receptor, then activating the opium receptor to send a pain relieving signal.
+
+What is a metabolite:
+A metabolite is a substance produced by a metabolic process.
+
+An important example of a metabolite is the substance produced after the metabolism of a drug.
+
+What is 6-MAM:
+>Has short half life (5-15 minutes depending on metabolism)
+>Crosses blood brain barrier better than morphine because it's fat soluble
+>Fentanyl is the most fat soluble, making it the most potent
+
+>Heroin diffuses very fast throughout the entire body via the bloodstream, causing very fast effects all over the body instantly.
+
+>Mu opioid receptors are all over the body, including the spine, brain and GI tract.
+
+Undesired effect of heroin:
+
+>Slows down brain activity and therefore causes bodily slowing, including respiratory rate lowering
+>Eventually causes agonal breathing, sounds like snoring and due to the lack of oxygen in the brain, they die
+>'Foam cone'
+
+>Naloxone binds to opioid receptors like a non-competitive inhibitor to heroin but is slightly competitive to the normal molecules
+
+6-MAM is a metabolite of heroin, meaning it is the result of heroin being metabolized -- specifically, first pass metabolism.
+It's then metabolized again and the resulting metabolite is morphine.
+This morphine is what triggers the high in users, as it's an opiate (Natural substance derived from opium)
+
+Enkophalins: https://www.ncbi.nlm.nih.gov/books/NBK557764/
+
+Beta Endorphins:
+
+Dynorphins:
+
+Opioid receptors:
+
+There are three kinds of opioid receptors:
+
+Mu:
+The mu receptor is the most potent, as agonists that target it are the most addictive and powerful.
+Morphine is an agonist that targets the mu receptors, meaning that 90% of the effects of morphine are due to it binding to mu receptors
+(Agonist = chemicals that targets a homeostatic receptor)
+They have the highest affinity for enkophalins and beta-endorphin, but a low affinity for dynorphins
+
+Enkaphephalins:
+-Bind to opioid receptors to cause pain relieving
+
+Beta Endorphin:
+-Regulate pain
+
+Kappa
+-Important for analgesia (Loss of pain)
+
+Delta
+-Regulate causes of persistent or chronic pain
+
+Question I had but had them answered:
+Heroine metabolizes into 6-MAM and then finally into morphine:
+Is this how opioids and opiates are able to cause the same effect despite having different structures? Do they just get reformed during metabolism into morphine?
+Is this similar to how fructose, glucose and galactose are all formed into 2 pyruvate during cellular respiration.
+
+Answer:
+All opioids are metabolized, then their metabolites are metabolized, then those metabolites are metabolized and so on and so forth until the resultant morphine is created.
+This is a very similar process to how fructose, glucose and galactose are metabolized until they turn into fructose biphosphate, which is then turned into pyruvate for usage in the body.
+
+https://en.wikipedia.org/wiki/6-Monoacetylmorphine
+https://nida.nih.gov/research-topics/opioids#work
+https://www.nih.gov/news-events/nih-research-matters/how-opioid-drugs-activate-receptors
+
+https://medlineplus.gov/ency/article/002258.htm
+https://www.britannica.com/science/enkephalin
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9251383/

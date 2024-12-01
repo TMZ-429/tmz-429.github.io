@@ -1,0 +1,34 @@
+Homeostasis is a process by which a constant operational internal environment is maintained in the body.
+Things within the body have to be maintained in order to adapt for the outside environment.
+
+Most homeostatic mechanisms work on a negative feedback loop because they need some form of resource (Normally ATP) to burn through.
+Most systems only need to work if pre-set conditions are not being kept.
+
+All homeostatic mechanisms require three functional components:
+1. A monitor to sense if change is happening
+2. Coordinating center, which uses the monitor to put regulators in action.
+3. Regulator, which uses organs, hormones and chemicals to effect various parts to return the body to the pre-set condition
+
+Most elder diseases happen because the regulator is worn out to the point where it gives up.
+
+Thermoregulation in the human body:
+
+Bodily cooling steps:
+
+1. Blood vessels dilating or expanding, allowing for more blood flow
+2. Muscle expansion
+3. Sweat
+
+Basically: Surface area expansion
+
+Bodily warming steps:
+1. Nasal constriction, restricting blood flow to the major organs of the body
+2. Muscle constricting
+3. Muscle spasming causing heat
+4. Hair standing up, in an attempt to create a layer of warmth
+5. Mouth breathing stops so that heat is trapped in the mouth
+
+Basically: Surface area constriction
+
+The monitor of thermoregulation is the blood, as water is the best regulator / monitor of temperature
+The regulator is the hypothalamus
