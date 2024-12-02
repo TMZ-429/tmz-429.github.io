@@ -10,7 +10,6 @@ Opium blocking molecules related to pain responses by being in the opium recepto
 
 What is a metabolite:
 A metabolite is a substance produced by a metabolic process.
-
 An important example of a metabolite is the substance produced after the metabolism of a drug.
 
 What is 6-MAM:
@@ -34,12 +33,6 @@ Undesired effect of heroin:
 It's then metabolized again and the resulting metabolite is morphine.
 This morphine is what triggers the high in users, as it's an opiate (Natural substance derived from opium)
 
-Enkophalins: https://www.ncbi.nlm.nih.gov/books/NBK557764/
-
-Beta Endorphins:
-
-Dynorphins:
-
 Opioid receptors:
 
 There are three kinds of opioid receptors:
@@ -49,6 +42,7 @@ The mu receptor is the most potent, as agonists that target it are the most addi
 Morphine is an agonist that targets the mu receptors, meaning that 90% of the effects of morphine are due to it binding to mu receptors
 (Agonist = chemicals that targets a homeostatic receptor)
 They have the highest affinity for enkophalins and beta-endorphin, but a low affinity for dynorphins
+By taking up the mu opioid receptors, morphine also stops signals which inhibit dopamine, causing dopamine to increase in the body, thus causing euphoria.
 
 Enkaphephalins:
 -Bind to opioid receptors to cause pain relieving
