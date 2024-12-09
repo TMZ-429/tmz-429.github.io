@@ -1,0 +1,8 @@
+Antidiuretic Hormone [ADH] helps regulate osmotic pressure and body fluid volume.
+Aldosterone regulates body fluid volume
+ADH and Aldosterone work via negative feedback:
+-Osmoreceptors in the hypothalamus shrink when body fluid levels are low
+-Hypothalamus shrinkage sends a signal to the pituitary gland
+-Pituitary gland releases ADH
+-ADH leads to the distal convoluted tubule [DCT] to increase uptake of any positive ion (Mostly metals)
+-ADH also creates the thirst response in the brain

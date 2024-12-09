@@ -44,16 +44,23 @@ Morphine is an agonist that targets the mu receptors, meaning that 90% of the ef
 They have the highest affinity for enkophalins and beta-endorphin, but a low affinity for dynorphins
 By taking up the mu opioid receptors, morphine also stops signals which inhibit dopamine, causing dopamine to increase in the body, thus causing euphoria.
 
-Enkaphephalins:
+Because the mu opioid receptor has a high affinity for enkophalins and beta-endorphins, and morphine mimics them, morphine is a very effective agonist for the mu opioid receptor.
+
+Types of ligands:
+
+Enkephalins:
 -Bind to opioid receptors to cause pain relieving
 
 Beta Endorphin:
 -Regulate pain
 
-Kappa
+Dynorphins:
+-Cause dysphoria
+
+Kappa opioid receptor
 -Important for analgesia (Loss of pain)
 
-Delta
+Delta opioid receptor
 -Regulate causes of persistent or chronic pain
 
 Question I had but had them answered:
@@ -72,3 +79,5 @@ https://www.nih.gov/news-events/nih-research-matters/how-opioid-drugs-activate-r
 https://medlineplus.gov/ency/article/002258.htm
 https://www.britannica.com/science/enkephalin
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9251383/
+http://www.medparkhospital.com/en-US/lifestyles/endorphins#:~:text=pain%2Drelieving%20drug.-,Endorphins%20are%20neurotransmitters%20released%20by%20the%20pituitary%20gland%20and%20hypothalamus,exercise%2C%20and%20sex%2C%20etc.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6758459
