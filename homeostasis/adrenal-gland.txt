@@ -1,0 +1,29 @@
+Adrenal Gland:
+-Located at the top of the kidneys
+-Composed of 2 layers
+
+Layer-Inner Medulla
+-Short Term Stress:
+	-Hypothalamus has a direct neural line to the adrenal gland
+	-Causes the release of epinephrine/adrenaline
+		-Increased heart-rate, increased breathing-rate
+		-Increased blood pressure
+		-Decreased blood flow to extremities
+		-Increased liver function
+		-Pupils dilate, other senses are dulled
+
+Layer Outer Cortex
+-Hypothalamus stimulates the pituitary gland to release ACTH
+-Causes Adrenal Gland to release:
+	-Cortisol:
+		-Increased blood sugar
+		-Decreased inflammation
+		-Decreased immune system response
+	-Aldosterone:
+		-Increased sodium absorption at DCT
+		-Increased blood pressure
+		-Feel bloated
+-Concerns with constant adrenaline:
+	-Blood sugar levels are consistently heightened to the point of adult early onset diabetes
+	-Blood pressure is too high, causes strokes
+	-Heart rate is too high, causes heart attacks

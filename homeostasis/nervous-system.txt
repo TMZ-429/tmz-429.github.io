@@ -1,0 +1,71 @@
+Nerve cell:
+Frontal part -- the dentrite end.
+Contains dentrites, which are the input sections.
+The nucleus is also usually in the dentrite end.
+
+Axon hillock:
+connection point of the axon & dendrite end.
+
+Axon:
+The 'wire' leading to the vesicle output section of the neuron.
+
+Myelin Sheath:
+The 'insulation' of the neuron;
+Think of it like the rubber coating of a wire, the wire being the axon.
+As it disappears, it's similar to a wire being frayed -- the signal can be dispersed as a result of it.
+This leads to alzheimers and parkinsons
+When the nerve is damaged, a protein sheath is wrapped over the sheath, which can eventually make it too heavy and cause it to snap.
+
+Node of Ranvier:
+The nodes of ronvier are the mechanisms that move sodium from one end of the neuron to the other.
+Sodium ions are basically the pusher of ions and are the most important for synapses.
+They are highly enriched in voltage-gated sodium and potassium channels.
+Voltage gated channels are channels in nerves that only open when enough voltage is passed through them, similar to how a transistor works in a circuit.
+
+
+Calcium channel:
+Calcium is what pushes the ions out of the vesicles.
+Therefore, the calcium channel is important for the nerve to 'know' when the ions have reached the output end.
+
+Vesicle output section:
+This is where ions are shot out of the cell.
+
+Neuron types:
+
+Sensory neuron:
+Photorecptors    - Eyes
+Chemoreceptors   - Nose
+Thermoreceptors  - Fingers
+Mechanoreceptors - Ears
+Nocioreceptors   - Lips
+
+Interneuron
+The spinal cord's neural system
+
+Motor neuron
+Directly informs muscles to contract or relax
+
+Neuron designs:
+Unipolar  -> CNS          -> Dendrite & axon ends aren't set in stone and can change, meaning input/output can change
+Bipolar   -> Eyes         -> Axon & dendrite ends are set in stone and therefore there's a clear input/output end
+Pyramidal -> Lizard brain -> Two inputs, one output
+Parkinge  -> Eyes         -> One input, multiple outputs
+
+Within a nerve's axon is a charge of -70 miliVolts.
+What's needed to create an electrical input is positive ions coming in to act as as a positive proton flow.
+Neurons are lined with integral proteins that have polar molecules. The negative ends are used to create the negative charge.
+Potassium & sodium ions are actively transported around the neuron, to guide other ions through it.
+3 Sodiums are pumped out for every 2 potassium's are taken in, which helps keep positive ions down, keeping the ion charge negative.
+
+Voltage gated neurons: (Sodium/potassium pumps)
+Once a ~-50mV input is detected by the dentrite of a neuron, the all or nothing principal takes effect and starts the neuron's action.
+Sodium rushes in and applies a 40mV charge to a single segment, while the rest of the environment is still -70.
+Sodium integral proteins are closed and the sodium pushes out remaining potassium..
+The first part is -90mV and the next part is 40mV, this causes sodium to rush into the next -70, turning it into +40, causing the one behind it to become -90.
+This continues happening until the 40mV reaches the axon, where it opens integral proteins for calcium to enter.
+Calcium finds the appropriate vesicle and pushes it to the end of the axon (At the pre-synaptic membrane), releasing a neuro-transmitter to go to the nerve it's connected to and recursively to a ligand gated channel.
+
+Acetylcholine is the most common endogenous ligand, and it basically is the common packet that can tell a neuron to do anything (E.G: "Walk", "snap", "fall")
+Acetylcholine has acetyllcholine esterase, which stops repeated instructions.
+Some substances just kind of diffuse around different neurons until they're broken down completely.
+Other substances will be recycled then stored after usage (E.G: Serotonin).

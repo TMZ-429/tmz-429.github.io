@@ -1,8 +1,16 @@
-Questions:
-Do I need to talk about black tar heroin? Mention it in passing
-Do I need to talk about the specific interactions between G Proteins and opioid receptors?
+What does this mean?
 
 Sources:
+http://www.medparkhospital.com/en-US/lifestyles/endorphins#:~:text=pain%2Drelieving%20drug.-,Endorphins%20are%20neurotransmitters%20released%20by%20the%20pituitary%20gland%20and%20hypothala
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6758459
+https://en.wikipedia.org/wiki/6-Monoacetylmorphine
+https://nida.nih.gov/research-topics/opioids#work
+https://www.nih.gov/news-events/nih-research-matters/how-opioid-drugs-activate-receptors
+
+https://medlineplus.gov/ency/article/002258.htm
+https://www.britannica.com/science/enkephalin
+https://pmc.ncbi.nlm.nih.gov/articles/PMC9251383/
+
 https://www.dea.gov/factsheets/heroin
 https://www.dea.gov/sites/default/files/2023-04/Heroin%202022%20Drug%20Fact%20Sheet.pdf
 https://chab.ethz.ch/en/outreach/collections/pharmacognostic-collection/opium-hashish-and-co.html
@@ -18,3 +26,7 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC9573776/
 https://americanaddictioncenters.org/opioids/heroin/withdrawal-detox
 https://www.ojp.gov/ncjrs/virtual-library/abstracts/chasing-black-dragon
 https://www.renaissancerecovery.com/black-tar-heroin/
+https://www.thesun.co.uk/news/6158322/colombia-krokodil-drug-epidemic-russian-cannibal-opioid/
+https://www.researchgate.net/figure/Mean-distribution-of-opioid-receptors-in-the-human-brain-based-on-the-204-11_fig1_336886586
+https://www.guidetopharmacology.org/GRAC/FamilyIntroductionForward?familyId=50#:~:text=The%20highest%20%CE%BC%20receptor%20densities,and%20superior%20colliculi%20%5B29%5D.
+https://mapp.mgh.harvard.edu/your-brain-an-introduction-to-its-anatomy/
