@@ -1,0 +1,83 @@
+Hypothalamus:
+
+	Anterior
+		-Secretes numerous hormones, particularly ones that interact with the pituitary gland.
+		-Observes and regulates temperature by controlling sweat (Temperature control when hot)
+		-Maintains the circadian rhythm by observing light
+
+	Middle
+		-Releases HGH
+		-Controls the apetite
+
+	Posterior
+		-Regulates temperature by shivering and blocking sweat production (Temperature control when cold)
+		-Involved in memory functionality
+
+Amygdala:
+	-The emotional centre of the brain
+	-Fight/Flight/Freeze response
+
+Prefrontal Cortex:
+	-Regulates conscious thoughts and emotions
+	-Highly suseptible to stress
+	-Capable of working memory
+		-Remembers things from short periods of time ago
+		-Recalls things from long-term memory
+If short term memory is what's in the RAM and long term memory is on the hard drive, then the prefrontal cortex is what's able to put both into registers and utilize them.
+
+Thalamus:
+	-Mostly composed of grey matter (Neurons) and a little white matter (Axons in the external and internal medullary laminae)
+	-Acts as a relay between the sensory organs and different parts of the brain
+	-Involved in memory	
+
+Temporal lobe
+	-Processes audio
+	-Processes language
+	-Encodes memory
+	-Important for analysis of audio cues such as tone of voice
+	
+Parietal Lobe:
+	-Processes feeling
+	-Controls where sensations are felt in the body (E.G: If your body comes into contact with something, the parietal lobe knows to send a signal to the site of the impact)
+	-Visual memory & visualization.
+	-Hand-eye coordination
+
+Occipital Lobe
+	-Processes visuals
+
+Cerebellum
+-The cerebellum is broken up into two parts:
+	-Cerebellar cortex
+		-Contains input neurons
+	-Cerebellar nuclei
+		-Responsible for sending signals out of the cerebellum
+	
+-The function of the cerebellum is the coordination of movement from body parts.
+-It also takes in sensory information from the eyes and ears to assist with movement.
+
+Medulla Oblangata:
+	-Connects from the spinal cord to the pons and midbrain
+	-2 parts:
+		Ventra medulla
+		Dorsal medulla
+	-Essential to the transmission of motor signals
+
+Pons
+	-The relay centre for four of the cranial nerves that transfer information for automated motor impulses, such as breathing.
+
+Corpus Callosum
+	-Takes information from the cerebral hemispheres of the brain and processes it into sensory, motor & cognitive signals.
+
+Pituitary Gland
+	-Releases several kinds of hormones which affect various bodily functions.
+	-Creates:
+		-ACTH
+		-FSH
+		-HGH
+		-LH
+		-Prolactin
+		-TSH
+		-ADH
+		-Oxytocin
+
+https://my.clevelandclinic.org/health/body/21459-pituitary-gland
